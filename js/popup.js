@@ -122,3 +122,5 @@ async function getCurrentTabUrl() {
 chrome.commands.onCommand.addListener((command) => {
     console.log(`Command: ${command}`);
 });
+
+alert($(".hellp").text())

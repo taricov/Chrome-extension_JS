@@ -3,6 +3,9 @@
     "version": "0.1",
     "name": "MeetingShh",
     "description": "Close all running FB chat",
+    "options_ui": {
+        "page": "/options.html"
+      },
     "action": {
         "default_popup": "popup.html",
         "default_icon": {
